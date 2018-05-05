@@ -1,0 +1,7 @@
+{
+  "name": "doantutai/wp-automatic",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "1.0.1"
+  }
+}
